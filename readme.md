@@ -12,7 +12,6 @@ DebugBuddy คือแพลตฟอร์มช่วยฝึกเขีย
 - **Modular Architecture:** แยกส่วน Config, Service และ Data อย่างชัดเจน รองรับการขยายระบบ (เช่น การย้ายไปใช้ Judge0 หรือ Docker ในอนาคต)
 
 ## System Architecture
--# Empty
 
 ## Tech Stack
 - **Frontend:** Next.js (React) + TypeScript
@@ -27,3 +26,4 @@ DebugBuddy คือแพลตฟอร์มช่วยฝึกเขีย
    ```bash
 
    npm install
+
