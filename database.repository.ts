@@ -54,7 +54,6 @@ export interface IRepository {
 
 /**
  * In-memory repository for development/testing
- * Do NOT use in production
  */
 export class InMemoryRepository implements IRepository {
   private submissions: Map<string, SubmissionRecord> = new Map();
