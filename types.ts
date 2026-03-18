@@ -38,6 +38,7 @@ export interface SubmitCodeResponse {
 
 export interface Assignment {
   id: string;
+  name?: string;
   classroomId: string;
   problemIds: string[];           // List of assigned problem IDs
   mode: 'guided' | 'free';        // 'guided' = must do these, 'free' = can do any
