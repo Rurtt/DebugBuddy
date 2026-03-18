@@ -6,7 +6,6 @@
  * 2. AI analysis (GeminiService)
  * 3. Response building for frontend and database
  * 
- * This is the "business logic" layer.
  */
 
 import {
