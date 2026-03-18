@@ -14,10 +14,10 @@ DebugBuddy คือแพลตฟอร์มช่วยฝึกเขีย
 ## System Architecture
 
 ## Tech Stack
-- **Frontend:** Next.js (React) + TypeScript
-- **Backend Logic:** Node.js + TypeScript
+- **Frontend:** Next.js 16 , TypeScript, Tailwind CSS
+- **Backend Logic:** Express.js + TypeScript
 - **AI Engine:** Google Generative AI (Gemini 2.5 Flash)
-- **Compiler API:** Wandbox API (Standard GCC)
+- **Compiler API:** Wandbox API
 - **Environment Management:** Dotenv + Custom Config Service
 
 ## Getting Started
